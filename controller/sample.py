@@ -33,7 +33,7 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Load Whisper Model (for Speech-to-Text)
-whisper_model = whisper.load_model("base")
+whisper_model = whisper.load_model("tiny")
 
 # Dictionary to store processing status
 processing_status: Dict[str, dict] = {}
