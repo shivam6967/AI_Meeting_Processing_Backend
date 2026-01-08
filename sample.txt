@@ -1,0 +1,11 @@
+.env file -> 
+Environment Varaibles -> 
+
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=shivam
+POSTGRES_SERVER=localhost
+POSTGRES_PORT=5432
+POSTGRES_DB=ShivamDB
+
+OPENAI_API_KEY=sk-vdglRLrFGAVYQ6H5wxcOB2JvzKidJF6YtPIiduYoGt5zUaQE
+GOOGLE_API_KEY=AIzaSyDRFuJn8-ad3z_O1Uq067hpCn9qDyluy5k
